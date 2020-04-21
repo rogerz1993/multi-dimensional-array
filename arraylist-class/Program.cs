@@ -10,7 +10,7 @@ namespace ArrayListClass
             ArrayList al = new ArrayList();
             
             Console.WriteLine("Adding some numbers:");
-            al.Add(45);
+            al.Add(455);
             al.Add(78);
             al.Add(33);
             al.Add(57);

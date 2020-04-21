@@ -11,7 +11,7 @@ namespace StackClass
 
             st.Push('A');
             st.Push('M');
-            st.Push('G');
+            st.Push('h');
             st.Push('W');
 
             Console.WriteLine("Current stack: ");

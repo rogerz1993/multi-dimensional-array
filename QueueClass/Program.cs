@@ -9,7 +9,7 @@ namespace QueueClass
         {
             Queue q = new Queue();
 
-            q.Enqueue('A');
+            q.Enqueue('m');
             q.Enqueue('M');
             q.Enqueue('G');
             q.Enqueue('W');
